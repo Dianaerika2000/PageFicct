@@ -1,0 +1,22 @@
+/* first navbar-change of background */
+.bg-primary-custom{
+    background-color:#022D6D;
+}
+/* second navbar-change of background */
+.bg-light-custom{
+    background-color: #CE0914;
+}
+
+/* Cambio de color of second navbar */
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.list-center {
+    width: 30%;
+    margin:auto;
+    /* align-items: center; */
+}
+.separate{
+    border-right: white;
+}

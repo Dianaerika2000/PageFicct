@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.general{
+    background-color: rgb(201, 196, 196);
+    opacity: 1;
+}
+.bg-footer{
+    background-color: #022D6D;
+}
